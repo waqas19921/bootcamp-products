@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "apple-watch",
+      "description": "This is an apple watch",
+      "price": 5000,
+      "image": "https://picsum.photos/seed/watch/300/200"
+    },
+    {
+      "id": 2,
+      "name": "apple-phone",
+      "description": "This is an apple phone",
+      "price": 50000,
+      "image": "https://picsum.photos/seed/apple-phone/300/200"
+    },
+    {
+      "id": 3,
+      "name": "laptop",
+      "description": "This is an core 2 duo laptop",
+      "price": 40000,
+      "image": "https://picsum.photos/seed/laptop/300/200"
+    },
+    {
+      "id": 4,
+      "name": "band",
+      "description": "This is a band",
+      "price": 4000,
+      "image": "https://picsum.photos/seed/band/300/200"
+    },
+    {
+      "name": "Biscuit",
+      "description": "pack of biscuit",
+      "price": "30",
+      "image": "https://picsum.photos/seed/biscuit/300/200",
+      "id": 5
+    },
+    {
+      "name": "Marker",
+      "description": "THis is a board marker",
+      "price": "50",
+      "image": "https://picsum.photos/seed/marker/300/200",
+      "id": 6
+    },
+    {
+      "name": "Duster",
+      "description": "This is a duster",
+      "price": "100",
+      "image": "https://picsum.photos/seed/duster/300/200",
+      "id": 7
+    },
+    {
+      "name": "Keyboard",
+      "description": "This is a keyboard",
+      "price": "500",
+      "image": "https://picsum.photos/seed/keyboard/300/200",
+      "id": 8
+    }
+  ]
+}
